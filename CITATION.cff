@@ -3,15 +3,10 @@ If you use our software package (library) in your work, please use this citation
 
 BibTeX
 
-@software
-{
-  
-  Salakos_BHash-Map_B-tree_Software_2022,
-  title = {In-Memory_B-Hash-Map_B-tree_Index_Structures},
-  author = {Sotirios Salakos, Nikolaos Ploskas},
-  doi = {10.13140/RG.2.2.26887.27042/1},
-  url = {https://github.com/SalakosSot/In-Memory_B-Hash-Map_B-tree_Index_Structures},
-  version = {2022.1.1},
-  year = {2022}
-
+@inproceedings{salakos2021analysis,
+  title={Analysis and Comparison of Binary and Interpolation Search Algorithms in a B-tree},
+  author={Salakos, Sotirios and Ploskas, Nikolaos},
+  booktitle={25th Pan-Hellenic Conference on Informatics},
+  pages={74--78},
+  year={2021}
 }
