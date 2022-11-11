@@ -31,6 +31,16 @@ Furthermore an additional study with theoretical and practical research content 
 
 The complete studies are published and provided via the [ResearchGate](https://www.researchgate.net/profile/Sotirios-Salakos).
 
+If you use this software, please cite it as:
+
+@inproceedings{salakos2021analysis,
+  title={Analysis and Comparison of Binary and Interpolation Search Algorithms in a B-tree},
+  author={Salakos, Sotirios and Ploskas, Nikolaos},
+  booktitle={25th Pan-Hellenic Conference on Informatics},
+  pages={74--78},
+  year={2021}
+}
+
 ### Dataset
 
                 
