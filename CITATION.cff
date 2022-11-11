@@ -1,0 +1,13 @@
+
+cff-version: 1.2.0
+message: "If you use our software package (library) in your work, please use this citation:"
+authors:
+- family-names: "Sotirios Salakos"
+  orcid: "0000-0003-4596-7154"
+- family-names: "Nikolaos Ploskas"
+  orcid: "0000-0001-5876-9945"
+title: "In-Memory_B-Hash-Map_B-tree_Index_Structures"
+version: 2022.1.1
+doi: 10.13140/RG.2.2.26887.27042/1
+date-released: 2022
+url: "https://github.com/SalakosSot/In-Memory_B-Hash-Map_B-tree_Index_Structures"
